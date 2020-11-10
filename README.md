@@ -10,5 +10,5 @@ Ein ganz seichter Einstieg. Bitte ladet euch dieses Programm in eure Entwicklung
 ### ℹ️ Resourcen:
 Hier noch ein paar nützliche 📃Artikel, 🖊️Threads und 🎥Videos
 
-- [🎥 Java Tutorial for Beginners ](https://uni-koeln.sciebo.de/s/CnL5Cg1opl8QceE)
+- [🎥 Java Tutorial for Beginners ](https://www.youtube.com/watch?v=eIrMbAQSU34&t=1076s&ab_channel=ProgrammingwithMosh)
 - [📃 Java Hello World](https://www.programiz.com/java-programming/hello-world)
