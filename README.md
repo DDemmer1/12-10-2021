@@ -11,4 +11,4 @@ Ein ganz seichter Einstieg. Bitte ladet euch dieses Programm in eure Entwicklung
 Hier noch ein paar nützliche 📃Artikel, 🖊️Threads und 🎥Videos
 
 - [🎥 Java Tutorial for Beginners ](https://www.youtube.com/watch?v=eIrMbAQSU34&t=1076s&ab_channel=ProgrammingwithMosh)
-- [📃 Java Casting](https://www.w3schools.com/java/java_type_casting.asp)
+- [📃 Java Casting](https://www.programiz.com/java-programming/hello-world)
