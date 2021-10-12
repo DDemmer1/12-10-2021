@@ -1,6 +1,6 @@
-# 10-11-2020
+# 12-10-2020
 
-Übungsaufgabe vom 10.11.2020 für die Studierenden des Java I Seminars der Universität zu Köln
+Übungsaufgabe vom 12.10.2020 für die Studierenden des Java I Seminars der Universität zu Köln
 
 
 ### 📝 Aufgabe:
